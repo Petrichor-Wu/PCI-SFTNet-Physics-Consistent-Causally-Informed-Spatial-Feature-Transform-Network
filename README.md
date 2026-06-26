@@ -1,0 +1,2 @@
+# PCI-SFTNet-Physics-Consistent-Causally-Informed-Spatial-Feature-Transform-Network
+PCI-SFTNet is a Physics-Consistent and Causally-Informed Spatial Feature Transform Network. By leveraging the PCMCI algorithm to identify causal dependencies, the model explicitly incorporates strong drivers and auxiliary factors into the architecture via SFT modules, enabling precise modeling of complex environmental phenomena.
